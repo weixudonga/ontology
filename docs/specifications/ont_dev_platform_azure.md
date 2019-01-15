@@ -1,4 +1,4 @@
-## create VM
+## Azure create VM
 * Virtual machines ->> +Add ->> Basic choose "Create VM from Azure Marketplace" ->> search ont_dev_platform and choose the first
 ## initialize && RUN
 ### 1.initialize(Run only once)
