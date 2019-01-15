@@ -1,3 +1,5 @@
+## AWS create VM
+* EC2 Dashboard ->> 实例 ->> 启动实例 ->>选择AMI里在AWS Marketplace搜索ONT_Dev_Platform ->>点选创建
 ## NetworkSecurityGroup
 * VM->SETTINGS->Networking->Inbound port rules
   * 80
