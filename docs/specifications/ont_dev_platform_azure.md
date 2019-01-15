@@ -1,3 +1,5 @@
+## create VM
+### 1.Virtual machines ->> +Add ->> Basic choose "Create VM from Azure Marketplace" ->> search ont_dev_platform and choose the first
 ## initialize && RUN
 ### 1.initialize(Run only once)
 * initialize httpd settings and restart httpd service
